@@ -1,0 +1,16 @@
+.dclock{
+    border: solid 2px black;
+    max-width: 30%;
+    margin: auto;
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
+.time{
+    font-size: 50px;
+    margin-right: 10px;
+}
+.datee{
+    font-size: 25px;
+    margin-left: px;
+}
